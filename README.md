@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# aguias-web
-=======
 # aguias-web
 
 ## Project setup
@@ -25,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 93f5552 (Initial commit)
