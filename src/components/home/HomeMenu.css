@@ -1,0 +1,26 @@
+.menu-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #f5f6fa;
+}
+.menu-options {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+button {
+  background: #273c75;
+  color: #fff;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+button:hover {
+  background: #192a56;
+}
